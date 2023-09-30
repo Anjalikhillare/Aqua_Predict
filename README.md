@@ -1,4 +1,5 @@
 # Aqua_Predict
+# Machine Learning for Water Quality Predictions 
 Developed a machine learning predictive model for water quality index.
 
 Objective: Developed a machine learning predictive model for water quality index, which is an essential task for environmental monitoring and management.
